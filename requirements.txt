@@ -1,0 +1,7 @@
+psycopg2-binary
+openai
+tiktoken
+python-dotenv
+pypdf
+langchain
+numpy
